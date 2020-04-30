@@ -1,0 +1,69 @@
+body{
+   
+    background-image: linear-gradient( rgb(13, 35, 65),rgb(78, 117, 172));
+}
+.heading{
+    color:silver;
+    text-align: center;
+}
+.head{
+    position: relative;
+    border:1px solid black;
+    background-color: rgb(9, 26, 71);
+}
+.form{
+    
+    border-radius: 15px;
+    margin-top: 50px;
+  margin-left: 100px;
+  color: antiquewhite;
+  border: 1px solid black;
+  background-color: rgb(9, 26, 71);
+  padding: 50px;
+  width: 300px;
+}
+.box1{
+    position: relative;
+    
+  
+    border-radius: 15px;
+    background-color:  rgb(9, 26, 71);
+    width:350px;
+    height: 450px;
+    border:black;
+    padding: 10px;
+   margin-left: 900px;
+  margin-top: -480px;
+   
+}
+.para{
+    color: rgb(33, 216, 161);
+    text-align: center;
+}
+#box1{
+    color: blanchedalmond;  
+}
+#home{
+    width: 300px;
+    height:150px;
+    padding: 20px;
+}
+#myBtn{
+    margin-left: 130px;
+}
+
+.reg{
+    padding: 10px;
+}
+.button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 1px;
+    cursor: pointer;
+}
